@@ -8,7 +8,7 @@ license: perl
 resources:
   homepage: http://padre.perlide.org/
   license: http://dev.perl.org/licenses/
-  repository: http://svn.perlide.org/padre/trunk/Padre-Plugin-ViewInBrowser/
+  repository: https://github.com/PadreIDE/Padre-Plugin-ViewInBrowser/
 build_requires:
   Padre: 0.26
   Path::Class::File: 0
